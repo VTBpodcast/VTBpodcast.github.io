@@ -4,7 +4,9 @@ title:  "#01-Organízate con Bullet Journal"
 date:   2017-02-21 
 categories: BulletJournal
 tags: [BulletJournal, Organización]
-podcast_link: http://tapewrite.com/REST/feed/@vacia_tu_bandeja/58a75a6c1976542236b81801.mp3
+image: images/Logo2.jpg
+podcast_link: https://archive.org/download/vaciatubandeja/Vtb01_Se_analogico_en_un_mundo_digital_con_Bullet_Journal.mp3
+comment: true
 ---
 Cuando comienzas con un método de organización personal o simplemente decides poner un poco de orden en tu vida una de las primeras cosas que te planteas es que herramientas vas a utilizar.
 Con una mínima búsqueda descubres que hay muchas aplicaciones, quizás demasiadas, y no sabes cual elegir. Algunas tienen una curva de aprendizaje que puede hacer que abandones lo verdaderamente importante. Poner orden en tu vida.

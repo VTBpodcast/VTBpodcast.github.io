@@ -4,7 +4,9 @@ title:  "#03-El funcionamiento del hábito"
 date:   2017-03-25 
 categories: Hábitos
 tags: Hábitos
-podcast_link: http://tapewrite.com/REST/feed/@vacia_tu_bandeja/58a75a6c1976542236b81801.mp3
+image: images/Logo2.jpg
+podcast_link: https://archive.org/download/03FuncionamientoDelHabito/03%20Funcionamiento%20del%20habito.mp3
+comment: true
 ---
 
 

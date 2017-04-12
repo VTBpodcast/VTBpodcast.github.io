@@ -3,6 +3,8 @@
   <div class="wrapper">
 
     <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+ <div class="footer-col footer-col-3">    
+    <p>{{ site.description | escape }}</p>
 
       <nav class="site-nav">
       <span class="menu-icon">
@@ -21,7 +23,7 @@
         {% endfor %}
         
       </div>
-     <p>{{ site.subtitle | escape }}</p> 
+    
     </nav>
  
   </div>

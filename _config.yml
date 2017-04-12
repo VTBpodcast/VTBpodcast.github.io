@@ -16,8 +16,7 @@
 title: Vacía Tu Bandeja 
 subtitle: Un podcast sobre organización personal, creación de hábitos y simplificar. 
 email: vaciatubandejal@gmail.com
-description: 
-  Un podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 
+description: Un podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 
   Comenta los episodios y comparte tus experiencias en el grupo Telegram. 
 
  
@@ -28,11 +27,27 @@ timezone: ES
 # Build settings
 markdown: kramdown
 theme: minima
+
 gems:
   - jekyll-feed
+  
   
 exclude:
   - Gemfile
   - Gemfile.lock
 
 permalink: pretty
+
+# Podcast Feed Settings
+podcast_url: https://vaciatubandeja.com
+podcast_album_art: images/Logo2.jpg
+podcast_title: Vacia Tu Bandeja
+podcast_owner: Laura
+podcast_email: vaciatubandeja@gmail.com
+podcast_category: Salud
+podcast_subcategory_one: Productividad
+podcast_explicit: "no"
+podcast_author: Laura
+podcast_description: Podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 
+podcast_summary: Podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 
+podcast_subtitle: Podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 

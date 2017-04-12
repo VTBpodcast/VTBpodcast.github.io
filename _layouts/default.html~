@@ -1,31 +1,21 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<div class="home">
+  {% include head.html %}
 
-  <h1 class="page-heading">Episodios</h1>
-  
-  {{ content }}
+  <body>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    {% include header.html %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        
-      </li>
-    {% endfor %}
-  </ul>
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
-
-<!-- Pagination links -->
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+    
+    <!-- Pagination links -->
       {% if paginator.total_pages > 1 %}
-        <div>
+        <div class="pagination">
           {% if paginator.previous_page == 1 %}
             <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
           {% elsif paginator.previous_page%}
@@ -51,5 +41,9 @@ layout: default
           {% endif %}
         </div>
         {% endif %}
-</div>
 
+    {% include footer.html %}
+
+  </body>
+
+</html>

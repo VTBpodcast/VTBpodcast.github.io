@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+ 
+<channel>
+<title>Vacia Tu Bandeja</title>
+<atom:link href="http://localhost:4000/feed/podcast" rel="self" type="application/rss+xml" />
+<link>http://localhost:4000</link>
+<description>Podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor.</description>
+<lastBuildDate>Wed, 12 Apr 2017 16:01:33 +0000</lastBuildDate>
+<language>es-es</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://jekyllrb.com</generator>
+<itunes:summary>Podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor.</itunes:summary>
+<itunes:author>Laura</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://localhost:4000images/Logo2.jpg" />
+<itunes:owner>
+<itunes:name>Laura</itunes:name>
+<itunes:email>vaciatubandeja@gmail.com</itunes:email>
+</itunes:owner>
+<managingEditor>vaciatubandeja@gmail.com (Laura)</managingEditor>
+<itunes:subtitle>Podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor.</itunes:subtitle>
+<image>
+<title>Vacia Tu Bandeja</title>
+<url>http://localhost:4000images/Logo2.jpg</url>
+<link>http://localhost:4000</link>
+</image>
+<itunes:category text="Salud">
+<itunes:category text="Productividad" />
+<itunes:category text="" />
+</itunes:category>
+
+</channel>
+</rss>

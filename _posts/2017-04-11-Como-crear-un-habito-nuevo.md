@@ -4,7 +4,9 @@ title:  "#04-Cómo crear un hábito nuevo"
 date:   2017-04-11 
 categories: Hábitos
 tags: Hábitos
-podcast_link: http://tapewrite.com/REST/feed/@vacia_tu_bandeja/58ebdf55bec51e4d5c4a5673.mp3
+image: images/Logo2.jpg
+podcast_link: https://archive.org/download/04ComoCrearUnHabitoNuevo/04%20Como%20crear%20un%20habito%20nuevo.mp3
+comment: true
 ---
 
 
