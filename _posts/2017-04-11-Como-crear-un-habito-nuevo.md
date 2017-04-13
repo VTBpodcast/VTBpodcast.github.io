@@ -2,8 +2,9 @@
 layout: post
 title:  "#04-Cómo crear un hábito nuevo"
 date:   2017-04-11 
-categories: Hábitos
+categories: podcast
 tags: Hábitos
+permalink: /4/
 image: images/Logo2.jpg
 podcast_link: https://archive.org/download/04ComoCrearUnHabitoNuevo/04%20Como%20crear%20un%20habito%20nuevo.mp3
 comment: true

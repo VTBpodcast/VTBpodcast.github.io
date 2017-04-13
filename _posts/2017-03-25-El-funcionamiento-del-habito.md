@@ -2,8 +2,9 @@
 layout: post
 title:  "#03-El funcionamiento del hábito"
 date:   2017-03-25 
-categories: Hábitos
+categories: podcast
 tags: Hábitos
+permalink: /3/
 image: images/Logo2.jpg
 podcast_link: https://archive.org/download/03FuncionamientoDelHabito/03%20Funcionamiento%20del%20habito.mp3
 comment: true

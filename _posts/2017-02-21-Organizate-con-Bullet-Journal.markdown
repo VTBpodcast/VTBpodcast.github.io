@@ -2,8 +2,9 @@
 layout: post
 title:  "#01-Organízate con Bullet Journal"
 date:   2017-02-21 
-categories: BulletJournal
+categories: podcast
 tags: [BulletJournal, Organización]
+permalink: /1/
 image: images/Logo2.jpg
 podcast_link: https://archive.org/download/vaciatubandeja/Vtb01_Se_analogico_en_un_mundo_digital_con_Bullet_Journal.mp3
 comment: true

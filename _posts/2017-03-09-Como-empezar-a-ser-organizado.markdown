@@ -2,8 +2,9 @@
 layout: post
 title:  "#02-Cómo empezar a ser organizado"
 date:   2017-03-09 
-categories: Organización
+categories: podcast
 tags: [Organización]
+permalink: /2/
 image: images/Logo2.jpg
 podcast_link: https://archive.org/download/02ComoEmpezarASerOrganizado_201704/02-Como%20empezar%20a%20ser%20organizado.mp3
 comment: true
