@@ -38,8 +38,8 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-           <li> Grupo<a href="http://t.me/Vaciatubandeja"><img style="float: left;" src="images/telegram.png" alt="" width="25" height="25"/></a></li>
-           <li>Mastodon <a href="https://mastodon.club/@lormez16"><img style="float: left;" src="images/mastodon.png" alt="" width="25" height="25" /></a></li>
+           <li> Grupo<a href="http://t.me/Vaciatubandeja"><img style="float: left;" src="images/telegram.png" alt="" width="20" height="20"/></a></li>
+           <li>Mastodon <a href="https://mastodon.club/@lormez16"><img style="float: left;" src="images/mastodon.png" alt="" width="20" height="20" /></a></li>
  			 
         
         </ul>

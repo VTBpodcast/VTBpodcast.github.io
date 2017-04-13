@@ -20,8 +20,9 @@ En el episodio de hoy te voy a hablar de esos primeros pasos que te llevarán a 
 Son los que yo he seguido y a los que recurro cuando siento que el caos empieza a entrar de nuevo en mi vida.
 
 
-  <div style="width: 100%; max-width:500px; max-height: 620px; margin: auto; overflow: hidden"><div style="text-align: center; display: block; position: relative; width: 100%; padding-bottom: 124%;  height: 0px; box-sizing: border-box;"><iframe style="position: absolute; left: 0px; top: 0px; padding: 0px; margin: 0px; width: 100%; height: 100%; max-width: 500px; max-height: 620px"  src="https://tapewrite.com/embed/58c07657edf79d0b43a5aafe" frameborder="0" scrolling="no">TW</iframe></div></div>
- 
+  <iframe src="https://archive.org/embed/02ComoEmpezarASerOrganizado_201704" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Descarga][mp3]
 
 <br/>
 
@@ -30,7 +31,7 @@ Comenta los episodios y comparte tus experiencias en el grupo de [Vacía Tu Band
 Si usas un Bullet Journal únete al grupo [Mi Bullet Journal] [BuJo] en Telegram.
 
 Puedes escuchar este podcast en:
-[TapeWrite][TapeWrite], [Spreaker][Spreaker], [Ivoox][Ivoox], [Itunes][Itunes] y [Podkas][Podkas]. 
+[Spreaker][Spreaker], [Ivoox][Ivoox], [Itunes][Itunes] y [Podkas][Podkas]. 
 
 
 Credito de Sintonia:
@@ -47,3 +48,4 @@ Si te ha gustado compártelo en tus redes favoritas.
 [Podkas]: http://www.podkas.com/directorio/vacia-tu-bandeja-de-lormez16/
 [Telegram]: http://t.me/Vaciatubandeja 
 [BuJo]: http://t.me/miBulletJournal
+[mp3]: https://archive.org/download/02ComoEmpezarASerOrganizado_201704/02-Como%20empezar%20a%20ser%20organizado.mp3

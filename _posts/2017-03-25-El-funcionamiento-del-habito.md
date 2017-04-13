@@ -21,9 +21,9 @@ En cuanto empiezas a buscar un poco, mas pronto que tarde llegas al libro **El p
 Este libro me ha ayudado a comprender el funcionamiento del hábito. Y conocer las partes que influyen en el mismo para poder crear y modificar hábitos de forma correcta.
 
 
-  <div style="width: 100%; max-width:500px; max-height: 620px; margin: auto; overflow: hidden"><div style="text-align: center; display: block; position: relative; width: 100%; padding-bottom: 124%;  height: 0px; box-sizing: border-box;"><iframe style="position: absolute; left: 0px; top: 0px; padding: 0px; margin: 0px; width: 100%; height: 100%; max-width: 500px; max-height: 620px"  src="https://tapewrite.com/embed/58d58be3edf79d0b43a62c80" frameborder="0" scrolling="no">TW</iframe></div></div>
+  <iframe src="https://archive.org/embed/03FuncionamientoDelHabito" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
  
- 
+ [Descarga][mp3]
 
 <br/>
 
@@ -32,7 +32,7 @@ Comenta los episodios y comparte tus experiencias en el grupo de [Vacía Tu Band
 Si usas un Bullet Journal únete al grupo [Mi Bullet Journal] [BuJo] en Telegram.
 
 Puedes escuchar este podcast en:
-[TapeWrite][TapeWrite], [Spreaker][Spreaker], [Ivoox][Ivoox], [Itunes][Itunes] y [Podkas][Podkas]. 
+[Spreaker][Spreaker], [Ivoox][Ivoox], [Itunes][Itunes] y [Podkas][Podkas]. 
 
 
 Credito de Sintonia:
@@ -42,10 +42,11 @@ http://creativecommons.org/licenses/by/3.0/
 
 Si te ha gustado compártelo en tus redes favoritas.
 
-[TapeWrite]: https://tapewrite.com/@vacia_tu_bandeja/
+
 [Spreaker]: https://www.spreaker.com/show/2177636
 [Ivoox]: http://www.ivoox.com/podcast-vacia-tu-bandeja_sq_f1388960_1.html
 [Itunes]: https://itunes.apple.com/es/podcast/vac%C3%ADa-tu-bandeja/id1212390900?mt=2
 [Podkas]: http://www.podkas.com/directorio/vacia-tu-bandeja-de-lormez16/
 [Telegram]: http://t.me/Vaciatubandeja 
 [BuJo]: http://t.me/miBulletJournal
+[mp3]: https://archive.org/download/03FuncionamientoDelHabito/03%20Funcionamiento%20del%20habito.mp3
