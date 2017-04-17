@@ -12,7 +12,7 @@ comment: true
 
 
 Seguramente te ha pasado que has intentado crear algún hábito nuevo o cambiar alguno que tengas y a pesar de estar muy motivado al final no lo consigues.
-<!--break-->
+
 
 A mi me ha pasado bastantes veces a lo largo de los años y no entendía porqué. Esto me llevó a investigar y profundizar sobre este tema. 
 

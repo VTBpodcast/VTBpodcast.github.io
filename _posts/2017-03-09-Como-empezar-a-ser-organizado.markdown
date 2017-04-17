@@ -11,9 +11,7 @@ comment: true
 ---
 
 ### Los 4 pasos para comenzar a tomar el control
-Razones para decidir ser organizado pueden haber muchas, quizás has leído un artículo donde te dan consejos para organizarte, o has escuchado un podcast como este, o leído un libro de organización, o tienes algún amigo que sigue un método de organización personal y te convence para que lo sigas. 
-
-El problema viene cuando quieres empezar y no sabes por donde. Te ves perdido y no ves cuál es el primer paso que tienes que dar. 
+Razones para decidir ser organizado pueden haber muchas, quizás has leído un artículo donde te dan consejos para organizarte, o has escuchado un podcast como este, o leído un libro de organización, o tienes algún amigo que sigue un método de organización personal y te convence para que lo sigas. El problema viene cuando quieres empezar y no sabes por donde. Te ves perdido y no ves cuál es el primer paso que tienes que dar. 
 
 En el episodio de hoy te voy a hablar de esos primeros pasos que te llevarán a ser mas organizado, a vencer esas barreras iniciales que encontramos.
 

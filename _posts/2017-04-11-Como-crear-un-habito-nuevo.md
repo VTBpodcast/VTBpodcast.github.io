@@ -13,7 +13,7 @@ comment: true
 
 Dicen que para crear un hábito es necesario 21 días. La realidad no es así. El tiempo que se tarda en crear un hábito depende de cada persona y del hábito a crear, pudiendo llegar hasta 66 días tranquilamente. Pero no solo eso. También depende de la motivación y la constancia que se tenga. Lo importante no es el tiempo que tardas sino la forma en que te enfrentas al mismo. Si quieres crear hábitos de forma exitosa, has de hacerlo con un método. Eso es de lo que vamos a hablar en este episodio. Te daré a conocer un método con el que podrás crear hábitos nuevos.
 
-<!--break-->
+
 
  <iframe src="https://archive.org/embed/04ComoCrearUnHabitoNuevo" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
  
