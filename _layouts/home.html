@@ -19,6 +19,9 @@ layout: default
         {{ post.excerpt }}
        
         <p>&#187; <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Leer post</a></p>
+        
+         {% include page_divider.html %} 
+        
       </li>
     {% endfor %}
   </ul>
