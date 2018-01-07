@@ -1,0 +1,69 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Vacía Tu Bandeja 
+logo: /images/Logo1.jpg
+subtitle: Un podcast sobre organización personal, creación de hábitos y simplificar. 
+email: vaciatubandejal@gmail.com
+description: Un podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 
+  Comenta los episodios y comparte tus experiencias en el grupo Telegram. 
+
+ 
+url: http://vaciatubandeja.com # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: lormez16
+timezone: ES
+
+#paginate
+paginate: 4
+paginate_path: "/blog/page:num/"
+
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+     shortname: lormez16
+     
+#google_analytics     
+     google_analytics: UA-106182743-1
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+gems:
+  - jekyll-feed
+  - jekyll-paginate 
+  
+  
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+permalink: pretty
+
+# Podcast Feed Settings
+podcast_url: https://vaciatubandeja.com
+podcast_album_art: /images/Logo2.jpg
+podcast_title: Vacia Tu Bandeja
+podcast_owner: Laura
+podcast_email: vaciatubandeja@gmail.com
+podcast_category: Health
+podcast_subcategory_one: Self-Help
+podcast_explicit: "no"
+podcast_author: Laura
+podcast_description: Podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 
+podcast_summary: Podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 
+podcast_subtitle: Podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 

@@ -1,0 +1,60 @@
+---
+layout: page
+---
+
+ <br>
+ 
+  <blockquote>
+    <p>"Piensa en grande y tus hechos crecerán, piensa en pequeño y quedaras atrás, piensa que puedes y podrás; todo está en el estado mental"</p>
+    <footer>
+     <cite>Napoleon Hill</cite>
+    </footer>
+  </blockquote>
+ 
+ 
+<br>
+<br>
+
+
+<center>  
+<p>Escucha el último episodio del podcast</p>
+{% assign latest_post = site.posts.first %}
+
+{{ latest_post.variable }}
+<br>
+<span class="post-meta">{{ latest_post.date | date: "%b %-d, %Y" }}</span>
+<h2>{{ latest_post.title | escape }}</h2>
+<br>
+<br>
+<audio controls>
+  <source src="{{ latest_post.podcast_link }}" type="audio/mp3">
+
+</audio>
+<br>
+<br>
+<p>&#187; <a href="{{ site.baseurl }}{{ latest_post.url }}" class="button button-primary">Leer post</a></p>
+</center>
+<br>
+<br>
+<center>
+<p><b>Envíame un audio con tus comentarios</b></p>
+<p>Utiliza el Widget lateral (Max 90 seg)</p>
+</center>
+
+
+<!-- Begin SpeakPipe code -->
+<script type="text/javascript">
+(function(d){
+var app = d.createElement('script'); app.type = 'text/javascript'; app.async = true;
+var pt = ('https:' == document.location.protocol ? 'https://' : 'http://');
+app.src = pt + 'www.speakpipe.com/loader/yhsyurkhlpn9hdopjhkvjrkkw9poz473.js';
+var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(app, s);
+})(document);
+</script>
+<!-- End SpeakPipe code -->
+
+
+
+
+
+

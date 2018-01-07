@@ -1,0 +1,16 @@
+---
+layout: page
+title: Bullet Journal 
+description: "An archive of posts sorted by tag."
+comments: false
+---
+
+
+	<article>
+	<ul>
+    {% for post in site.tags.Habitos %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+		</ul>
+	</article><!-- /.hentry -->
+
