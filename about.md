@@ -3,7 +3,7 @@ layout: page
 title: Sobre el Podcast
 permalink: /about/
 ---
-![Logo](/images/VTB1400.jpg)
+![Logo](/images/VTB1400x1400.jpg)
 
 Vacía tu bandeja es un podcast sobre organización personal y creación de hábitos. Está basado en mi experiencia personal a lo largo de los años. El objetivo es compartir todo lo que he aprendido para poder ayudar a otras personas a ser mas organizadas y a crear los hábitos adecuados para ello.
 
