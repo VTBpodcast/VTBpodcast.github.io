@@ -4,7 +4,7 @@ title: "#20 Bullet Journal | Los contextos"
 date: 2018-04-18
 categories: podcast
 tags: [BulletJournal, Organización]
-permalink: /Bullet Journal | Los contextos/
+permalink: /Bullet Journal-Los contextos/
 podcast_link: https://audioboom.com/posts/6814117-bullet-journal-los-contextos.mp3
 comment: true
 ---
